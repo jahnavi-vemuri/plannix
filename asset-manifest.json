@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/plannix/static/css/main.f0010524.css",
+    "main.js": "/plannix/static/js/main.14d7fe5a.js",
+    "static/js/453.229e7585.chunk.js": "/plannix/static/js/453.229e7585.chunk.js",
+    "index.html": "/plannix/index.html",
+    "main.f0010524.css.map": "/plannix/static/css/main.f0010524.css.map",
+    "main.14d7fe5a.js.map": "/plannix/static/js/main.14d7fe5a.js.map",
+    "453.229e7585.chunk.js.map": "/plannix/static/js/453.229e7585.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0010524.css",
+    "static/js/main.14d7fe5a.js"
+  ]
+}
